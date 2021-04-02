@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>
+    <add name="dbdatabase" providerName="Sql.Data.SqlClient" 
+         connectionString= "Data Source=DESKTOP-UQ20I4G\SQLEXPRESS; 
+         Initial Catalog=DIU; User Id=sa; Password=123 "   />
+  </connectionStrings>
+</configuration>
