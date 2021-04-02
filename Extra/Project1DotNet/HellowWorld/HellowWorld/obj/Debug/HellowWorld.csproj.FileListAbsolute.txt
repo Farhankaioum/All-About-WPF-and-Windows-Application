@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.Form1.resources
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.Properties.Resources.resources
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.ReportViewer.resources
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.StudentEntry.resources
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.StudentEntrySimpleWay.resources
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+C:\Users\DCL\Desktop\Project1DotNet\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb

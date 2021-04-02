@@ -1,0 +1,17 @@
+C:\PROJECT\Meera Academy\Meera Academy\bin\Debug\Meera Academy.exe.config
+C:\PROJECT\Meera Academy\Meera Academy\obj\Debug\Meera Academy.exe
+C:\PROJECT\Meera Academy\Meera Academy\obj\Debug\Meera Academy.pdb
+C:\PROJECT\Meera Academy\Meera Academy\bin\Debug\Meera Academy.exe
+C:\PROJECT\Meera Academy\Meera Academy\bin\Debug\Meera Academy.pdb
+C:\PROJECT\Meera Academy\Meera Academy\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\PROJECT\Meera Academy\Meera Academy\bin\Debug\office.dll
+C:\PROJECT\Meera Academy\Meera Academy\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\PROJECT\Meera Academy\Meera Academy\bin\Debug\office.xml
+C:\PROJECT\Meera Academy\Meera Academy\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECT\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Detail.resources
+C:\PROJECT\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Home.resources
+C:\PROJECT\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Properties.Resources.resources
+C:\PROJECT\Meera Academy\Meera Academy\obj\Debug\Meera Academy.csproj.GenerateResource.Cache
+E:\MEERA ACADEMY\PROJECTS\MY PROJECT\Meera Academy\Meera Academy\bin\Debug\Meera Academy.exe.config
+E:\MEERA ACADEMY\PROJECTS\MY PROJECT\Meera Academy\Meera Academy\obj\Debug\Meera Academy.exe
+E:\MEERA ACADEMY\PROJECTS\MY PROJECT\Meera Academy\Meera Academy\obj\Debug\Meera Academy.pdb

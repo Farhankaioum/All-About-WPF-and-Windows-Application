@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\bin\Debug\InformationDatabase1.exe.config
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\bin\Debug\InformationDatabase1.exe
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\bin\Debug\InformationDatabase1.pdb
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\obj\Debug\InformationDatabase1.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\obj\Debug\InformationDatabase1.Form1.resources
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\obj\Debug\InformationDatabase1.Properties.Resources.resources
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\obj\Debug\InformationDatabase1.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\obj\Debug\InformationDatabase1.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\obj\Debug\InformationDatabase1.exe
+C:\Users\DCL\Desktop\Dotnet\p3(DatabaseFullProject)\InformationDatabase1\InformationDatabase1\obj\Debug\InformationDatabase1.pdb

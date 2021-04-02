@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\obj\Debug\WorkShoop.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\obj\Debug\WorkShoop.Form1.resources
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\obj\Debug\WorkShoop.Properties.Resources.resources
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\obj\Debug\WorkShoop.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\obj\Debug\WorkShoop.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\bin\Debug\WorkShoop.exe.config
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\bin\Debug\WorkShoop.exe
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\bin\Debug\WorkShoop.pdb
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\obj\Debug\WorkShoop.exe
+C:\Users\DCL\Desktop\Dotnet\Workshoop\WorkShoop\WorkShoop\obj\Debug\WorkShoop.pdb

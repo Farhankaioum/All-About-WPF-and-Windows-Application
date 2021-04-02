@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\bin\Debug\PractiseProject.exe.config
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\bin\Debug\PractiseProject.exe
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\bin\Debug\PractiseProject.pdb
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\obj\Debug\PractiseProject.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\obj\Debug\PractiseProject.Form1.resources
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\obj\Debug\PractiseProject.Properties.Resources.resources
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\obj\Debug\PractiseProject.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\obj\Debug\PractiseProject.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\obj\Debug\PractiseProject.exe
+C:\Users\DCL\Desktop\Meraj\PractiseProject\PractiseProject\obj\Debug\PractiseProject.pdb

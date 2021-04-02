@@ -1,0 +1,29 @@
+G:\PROJECT\Backup\Meera Academy\Meera Academy\bin\Debug\Meera Academy.exe.config
+G:\PROJECT\Backup\Meera Academy\Meera Academy\obj\Debug\Meera Academy.exe
+G:\PROJECT\Backup\Meera Academy\Meera Academy\obj\Debug\Meera Academy.pdb
+G:\PROJECT\Backup\Meera Academy\Meera Academy\bin\Debug\Meera Academy.exe
+G:\PROJECT\Backup\Meera Academy\Meera Academy\bin\Debug\Meera Academy.pdb
+G:\PROJECT\Backup\Meera Academy\Meera Academy\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\PROJECT\Backup\Meera Academy\Meera Academy\bin\Debug\office.dll
+G:\PROJECT\Backup\Meera Academy\Meera Academy\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\PROJECT\Backup\Meera Academy\Meera Academy\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\PROJECT\Backup\Meera Academy\Meera Academy\bin\Debug\office.xml
+G:\PROJECT\Backup\Meera Academy\Meera Academy\obj\Debug\ResolveAssemblyReference.cache
+G:\PROJECT\Backup\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Detail.resources
+G:\PROJECT\Backup\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Home.resources
+G:\PROJECT\Backup\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Properties.Resources.resources
+G:\PROJECT\Backup\Meera Academy\Meera Academy\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\PROJECT\Backup\Meera Academy\Meera Academy\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\bin\Debug\Meera Academy.exe.config
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\bin\Debug\Meera Academy.exe
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\bin\Debug\Meera Academy.pdb
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\bin\Debug\stdole.dll
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera Academy.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Detail.resources
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Home.resources
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera_Academy.Properties.Resources.resources
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera Academy.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera Academy.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera Academy.csproj.CopyComplete
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera Academy.exe
+C:\Users\DCL\Desktop\Project1DotNet\1\Meera Academy\Meera Academy\obj\Debug\Meera Academy.pdb

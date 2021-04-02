@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\bin\Debug\ProjectApplicationForm.exe.config
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\bin\Debug\ProjectApplicationForm.exe
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\bin\Debug\ProjectApplicationForm.pdb
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\obj\Debug\ProjectApplicationForm.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\obj\Debug\ProjectApplicationForm.Form1.resources
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\obj\Debug\ProjectApplicationForm.Properties.Resources.resources
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\obj\Debug\ProjectApplicationForm.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\obj\Debug\ProjectApplicationForm.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\obj\Debug\ProjectApplicationForm.exe
+C:\Users\DCL\Desktop\CRUDLAB\ProjectApplicationForm\ProjectApplicationForm\obj\Debug\ProjectApplicationForm.pdb

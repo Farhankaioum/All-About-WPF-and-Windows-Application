@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\bin\Debug\CRUDTest.exe.config
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\bin\Debug\CRUDTest.exe
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\bin\Debug\CRUDTest.pdb
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\obj\Debug\CRUDTest.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\obj\Debug\CRUDTest.Form1.resources
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\obj\Debug\CRUDTest.Properties.Resources.resources
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\obj\Debug\CRUDTest.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\obj\Debug\CRUDTest.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\obj\Debug\CRUDTest.exe
+C:\Users\DCL\Desktop\CRUDTest\CRUDTest\obj\Debug\CRUDTest.pdb

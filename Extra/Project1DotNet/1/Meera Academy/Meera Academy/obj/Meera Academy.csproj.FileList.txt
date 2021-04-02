@@ -1,0 +1,11 @@
+bin\Debug\Meera Academy.exe
+bin\Debug\Meera Academy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Meera_Academy.Properties.Resources.resources
+obj\Debug\Meera Academy.csproj.GenerateResource.Cache
+obj\Debug\Meera Academy.exe
+obj\Debug\Meera Academy.pdb
+obj\Debug\Meera_Academy.Home.resources
+obj\Debug\Meera_Academy.Detail.resources
+bin\Debug\Meera Academy.exe.config
+bin\Debug\Microsoft.Office.Interop.Excel.xml

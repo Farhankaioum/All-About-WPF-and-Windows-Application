@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectApplicationForm", "ProjectApplicationForm\ProjectApplicationForm.csproj", "{4E37349F-3D04-4632-A42F-F408BF9C76CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectedDataSetWindowsForm", "DisconnectedDataSetWindowsForm\DisconnectedDataSetWindowsForm.csproj", "{90326A1D-285D-45A5-B32E-CE5A4F901CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E37349F-3D04-4632-A42F-F408BF9C76CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E37349F-3D04-4632-A42F-F408BF9C76CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E37349F-3D04-4632-A42F-F408BF9C76CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E37349F-3D04-4632-A42F-F408BF9C76CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90326A1D-285D-45A5-B32E-CE5A4F901CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90326A1D-285D-45A5-B32E-CE5A4F901CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90326A1D-285D-45A5-B32E-CE5A4F901CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90326A1D-285D-45A5-B32E-CE5A4F901CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {393480E3-FE5C-49A7-A709-24E7CDA523FC}
+	EndGlobalSection
+EndGlobal

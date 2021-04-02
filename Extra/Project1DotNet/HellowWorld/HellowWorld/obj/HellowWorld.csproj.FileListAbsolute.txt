@@ -1,0 +1,26 @@
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\ResolveAssemblyReference.cache
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.Form1.resources
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.Properties.Resources.resources
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.GenerateResource.Cache
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe.config
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.StudentEntry.resources
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.StudentEntrySampleWay.resources
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.StudentList.rpt
+E:\personal doc\Defodill Universiy\HellowWorld\HellowWorld\obj\Debug\HellowWorld.ReportViewer.resources
+D:\layer\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe.config
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
+D:\layer\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+D:\layer\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+D:\layer\HellowWorld\HellowWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.StudentList.rpt
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.Form1.resources
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.Properties.Resources.resources
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.ReportViewer.resources
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.StudentEntry.resources
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.GenerateResource.Cache
+D:\layer\HellowWorld\HellowWorld\obj\Debug\HellowWorld.StudentEntrySimpleWay.resources

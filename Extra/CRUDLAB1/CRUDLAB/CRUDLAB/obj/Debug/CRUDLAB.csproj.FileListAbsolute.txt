@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\bin\Debug\CRUDLAB.exe.config
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\bin\Debug\CRUDLAB.exe
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\bin\Debug\CRUDLAB.pdb
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\obj\Debug\CRUDLAB.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\obj\Debug\CRUDLAB.Form1.resources
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\obj\Debug\CRUDLAB.Properties.Resources.resources
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\obj\Debug\CRUDLAB.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\obj\Debug\CRUDLAB.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\obj\Debug\CRUDLAB.exe
+C:\Users\DCL\Desktop\CRUDLAB1\CRUDLAB\CRUDLAB\obj\Debug\CRUDLAB.pdb

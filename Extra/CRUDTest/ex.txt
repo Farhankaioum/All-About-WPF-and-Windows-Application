@@ -1,0 +1,131 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace DataTableTest
+{
+    public partial class Form1 : Form
+    {
+        DataTable dt;
+		
+        DataColumn dc;
+        DataRow dr;
+		
+		DataSet ds;
+
+        DataTable GetEmployeeTable()
+        {
+            dt = new DataTable("Employee");
+
+            #region Employee DataTable 
+            // Adding Columns
+
+            dc = new DataColumn("EmpId",typeof(int));
+            dt.Columns.Add(dc);
+            dt.PrimaryKey = new DataColumn[] {dc};
+
+            dc = new DataColumn("EmpName",typeof(string));
+            dt.Columns.Add(dc);
+
+            dc = new DataColumn("DeptId",typeof(int));
+            dt.Columns.Add(dc);
+
+
+            //Adding Rows
+
+            dr = dt.NewRow();
+            dr[0] = 101;
+            dr["EmpName"] = "Anadi";
+            dr[2] = 10;
+            dt.Rows.Add(dr);
+
+
+            dr = dt.NewRow();
+            dr[0] = 102;
+            dr["EmpName"] = "Mohit";
+            dr[2] = 10;
+            dt.Rows.Add(dr);
+
+            dr = dt.NewRow();
+            dr[0] = 1013;
+            dr["EmpName"] = "Rahul";
+            dr[2] = 10;
+            dt.Rows.Add(dr);
+
+            #endregion 
+
+            return dt;
+        }
+		
+		
+		
+		DataTable GetDepartmentTable()
+        {
+            dt = new DataTable("Department");
+
+            #region Employee DataTable 
+            // Adding Columns
+
+            dc = new DataColumn("DeptId",typeof(int));
+            dt.Columns.Add(dc);
+            dt.PrimaryKey = new DataColumn[] {dc};
+
+            dc = new DataColumn("DeptName",typeof(string));
+            dt.Columns.Add(dc);            
+
+
+            //Adding Rows
+
+            dr = dt.NewRow();
+            dr[0] = 101;
+            dr["DeptName"] = "Administration";            
+            dt.Rows.Add(dr);
+
+
+            dr = dt.NewRow();
+            dr[0] = 102;
+            dr["DeptName"] = "Human Resources";            
+            dt.Rows.Add(dr);            
+
+            #endregion 
+
+            return dt;
+        }
+						
+		
+        public Form1()
+        {
+            InitializeComponent();
+        }
+		DataSet GenerateDataSet()
+		{
+		  DataTable emp = GetEmployeeTable();
+		  DataTable dept = GetDepartmentTable();
+		  
+		  ds = new DataSet("MyDS");
+		  ds.Tables.add(emp); // 0
+		  ds.Tables.Add(dept); // 1
+		  
+		}
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+		
+		    	DataSet MyDs = GenerateDataSet();
+			dataGridView1.DataSource = MyDs.Tables[0];
+			dataGridView1.DataSource = MyDs.Tables[1];  
+
+			private string conString = "Server=DESKTOP-ELK9O8L; Database = NetClass; User =sa; Password=root";
+			SqlConnection con = new SqlConnection(conString);						
+			SqlDataAdapter da = new SqlDataAdapter(con);			
+			da.Fill(MyDs);
+            			
+        }
+    }
+}

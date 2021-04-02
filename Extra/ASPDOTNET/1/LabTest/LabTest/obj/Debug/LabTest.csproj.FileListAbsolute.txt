@@ -1,0 +1,10 @@
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\bin\Debug\LabTest.exe.config
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\bin\Debug\LabTest.exe
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\bin\Debug\LabTest.pdb
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\obj\Debug\LabTest.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\obj\Debug\LabTest.Form1.resources
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\obj\Debug\LabTest.Properties.Resources.resources
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\obj\Debug\LabTest.csproj.GenerateResource.cache
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\obj\Debug\LabTest.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\obj\Debug\LabTest.exe
+C:\Users\DCL\Desktop\ASPDOTNET\1\LabTest\LabTest\obj\Debug\LabTest.pdb
